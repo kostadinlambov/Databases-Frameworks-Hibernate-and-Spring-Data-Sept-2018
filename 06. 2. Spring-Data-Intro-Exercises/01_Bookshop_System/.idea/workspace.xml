@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c670a02e-3ae0-4103-834e-0b0f9f57346e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BookshopSystem" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BookshopSystem" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1146549728">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="SCHEMA:bookshop_system" value="2" />
+          <entry key="SCHEMA:bookshop_system_new" value="2" />
+          <entry key="SCHEMA:bookshop_system_new_2" value="1" />
+          <entry key="authors" value="5" />
+          <entry key="books" value="5" />
+          <entry key="books_categories" value="5" />
+          <entry key="categories" value="5" />
+          <entry key="java" value="82" />
+          <entry key="properties" value="7" />
+          <entry key="sql" value="5" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="20" />
+          <entry key="JAVA" value="82" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="7" />
+          <entry key="Scratch" value="5" />
+          <entry key="UML" value="5" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2357" />
+          <entry key="properties" value="21" />
+          <entry key="sql" value="178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2353" />
+          <entry key="Properties" value="21" />
+          <entry key="Scratch" value="178" />
+          <entry key="Spring Data QL" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/controllers/BooksController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/AuthorRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/BookRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="51" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/CategoryRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/BookshopSystemApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/util/entetiesSeed/EntitiesSeedExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/util/io/FileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/util/io/FileUtilImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/BookshopSystemApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/EditionType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/AgeRestriction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/ConsoleRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/controller/BookshopController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/util/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/services/AuthorServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/services/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/controller/BooksController.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/949a184e-769b-4801-bc73-1305c9d15bd1/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/949a184e-769b-4801-bc73-1305c9d15bd1/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/services/BookServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Author.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/AuthorRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/BookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/CategoryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/services/AuthorService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/services/BookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/util/entetiesSeed/EntitiesSeedExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bookshopSystem/controllers/BooksController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1 SoftUni" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="347" />
+    <option name="y" value="113" />
+    <option name="width" value="1562" />
+    <option name="height" value="1003" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshopSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Bookshop_System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="bookshopsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="949a184e-769b-4801-bc73-1305c9d15bd1" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542558588930" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../3_Homework-Exercise_ Spring Data Intro-654046/bookshop_system" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\valch\Desktop\Java DB Projects\01. Java DB Fundamentals-September-2018\02. Databases Frameworks - Hibernate &amp; Spring Data - October 2018\06. 2. Spring-Data-Intro-Exercises\01_Bookshop_System\src\main\java\bookshopSystem\services" />
+      <recent name="C:\Users\valch\Desktop\Java DB Projects\01. Java DB Fundamentals-September-2018\02. Databases Frameworks - Hibernate &amp; Spring Data - October 2018\06. 2. Spring-Data-Intro-Exercises\01_Bookshop_System\src\main\java\bookshopSystem" />
+      <recent name="C:\Users\valch\Desktop\Java DB Projects\01. Java DB Fundamentals-September-2018\02. Databases Frameworks - Hibernate &amp; Spring Data - October 2018\06. 2. Spring-Data-Intro-Exercises\01_Bookshop_System\src\main\java\bookshopSystem\repositories" />
+      <recent name="C:\Users\valch\Desktop\Java DB Projects\01. Java DB Fundamentals-September-2018\02. Databases Frameworks - Hibernate &amp; Spring Data - October 2018\06. 2. Spring-Data-Intro-Exercises\01_Bookshop_System\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bookshopSystem.controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bookshopSystem.domain.entities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookshopSystemApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="01_Bookshop_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bookshopSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bookshopSystem.BookshopSystemApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BookshopSystemApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c670a02e-3ae0-4103-834e-0b0f9f57346e" name="Default Changelist" comment="" />
+      <created>1541816919728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541816919728</updated>
+      <workItem from="1541816924273" duration="5151000" />
+      <workItem from="1541860065363" duration="22176000" />
+      <workItem from="1542148163238" duration="21000" />
+      <workItem from="1542148312416" duration="5201000" />
+      <workItem from="1542228985840" duration="614000" />
+      <workItem from="1542291702670" duration="2057000" />
+      <workItem from="1542555752282" duration="2626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37846000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="347" y="113" width="1562" height="1003" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2756325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52386117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.505423" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.30151844" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.34924078" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" sideWeight="0.49946696" weight="0.30013832" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.11251664" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/BookServiceImpl.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/files/books.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/files/authors.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/controller/BookshopController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/files/categories.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/949a184e-769b-4801-bc73-1305c9d15bd1.SCHEMA:bookshop_system_new">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>949a184e-769b-4801-bc73-1305c9d15bd1.SCHEMA:bookshop_system_new</OriginalElement>
+          <nodes>
+            <node x="" y="">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new.books_categories</node>
+            <node x="" y="">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new.books</node>
+            <node x="" y="">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new.categories</node>
+            <node x="" y="">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new.authors</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1299806576402323" x="193.0" y="365.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system_new/table/authors" />
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system_new/table/books" />
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system_new/table/books_categories" />
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system_new/table/categories" />
+    <entry file="uml://DATABASE/949a184e-769b-4801-bc73-1305c9d15bd1.SCHEMA:bookshop_system">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>949a184e-769b-4801-bc73-1305c9d15bd1.SCHEMA:bookshop_system</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9164410058027078" x="-4.0" y="298.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system/table/authors">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system/table/books_categories">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system/table/categories">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/ConsoleRunner.java" />
+    <entry file="das://949a184e-769b-4801-bc73-1305c9d15bd1/schema/bookshop_system/table/books">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/949a184e-769b-4801-bc73-1305c9d15bd1/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/949a184e-769b-4801-bc73-1305c9d15bd1/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/949a184e-769b-4801-bc73-1305c9d15bd1.SCHEMA:bookshop_system_new_2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>949a184e-769b-4801-bc73-1305c9d15bd1.SCHEMA:bookshop_system_new_2</OriginalElement>
+          <nodes>
+            <node x="3.5" y="146.0">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books</node>
+            <node x="196.5" y="223.0">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.categories</node>
+            <node x="0.0" y="0.0">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.authors</node>
+            <node x="104.25" y="424.0">949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books_categories</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books_categories" target="949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books">
+              <point x="-38.5" y="-36.5" />
+              <point x="142.75" y="399.0" />
+              <point x="90.0" y="399.0" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books" target="949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.authors">
+              <point x="0.0" y="-114.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books_categories" target="949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.categories">
+              <point x="38.5" y="-36.5" />
+              <point x="219.75" y="399.0" />
+              <point x="272.5" y="399.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-74.0" y="153.0" />
+          <SelectedNodes>
+            <node>949a184e-769b-4801-bc73-1305c9d15bd1.TABLE:bookshop_system_new_2.books_categories</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/AgeRestriction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/EditionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/AuthorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/AuthorServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/BookServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#seedBooks#0;class#BookServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/services/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/util/entetiesSeed/EntitiesSeedExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/util/io/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/util/io/FileUtilImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/BookshopSystemApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/domain/entities/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/controllers/BooksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/CategoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/AuthorRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bookshopSystem/repositories/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mongoose-auto-increment-DefinitelyTyped</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
